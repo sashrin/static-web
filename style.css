@@ -1,0 +1,15 @@
+h1 {
+    background-color: black;
+    color: white;
+}
+h2{
+    color: blue;
+}
+#bmwimage{
+    width: 196px;
+    height: 128px;
+}
+#catimage{
+    width: 150px;
+    height: 150px;
+}
