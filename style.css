@@ -54,13 +54,13 @@ position: relative;
 width: 100%;
 
 }
-.tzfatimage{
+#tzfatimage{
     width: 600px;
     height: 450px;
     margin: 0 15px
     padding 30px 0;
 }
-.mpimage{
+#mpimage{
     width: 600px;
     height: 450px;
     margin: 0 15px
